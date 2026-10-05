@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+Format: As a YAB Dato Sheikh TS.Ahmad Izahan Azman, I want to study all the subject , so that i will success.
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...
